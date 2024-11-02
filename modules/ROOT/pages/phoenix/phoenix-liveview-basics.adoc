@@ -158,7 +158,7 @@ defmodule DemoWeb.LightLive do
   end
 end
 ----
-<1> Out of all the posssible parameters of `mount/3` we only need the `socket`
+<1> Out of all the possible parameters of `mount/3` we only need the `socket`
 struct for our example.
 <2> We set the initial value of the variable `light_bulb_status` to `off`.
 
